@@ -15,13 +15,20 @@ ketika menekan tombol "Customize Here" akan diarahkan ke instagram @friyay.beads
 
 <img width="634" alt="Screenshot 2024-12-09 230251" src="https://github.com/user-attachments/assets/589058b5-8651-4baa-9eae-5cd28a6e86fa">
 
-Lanjut ke Best Deals, ini adalah gelang gelang yang sedang diskon
+Lanjut ke "Best Deals", ini adalah sesi gelang gelang yang sedang diskon
 ![Screenshot 2024-12-09 230553](https://github.com/user-attachments/assets/835894d7-01bd-4156-be13-121567447bb9)
 
 <img width="960" alt="Screenshot 2024-12-09 230632" src="https://github.com/user-attachments/assets/f8d7f7c0-db73-4e34-a36b-73ad6ea2eb53">
 
-ketika menekan tombol "Buy Now" akan diarahkan ke payment link, customer bisa memasukkan sendiri nominal sesuai dengan harga gelang, pembelian minimal Rp8.000 untuk sesi ini
+ketika menekan tombol "payment" akan diarahkan ke payment link, customer bisa memasukkan sendiri nominal sesuai dengan harga gelang, pembelian minimal Rp8.000 untuk sesi ini
 ![Screenshot 2024-12-10 090106](https://github.com/user-attachments/assets/fb0c6bb5-4c0c-4456-a5f7-9872f71d050b)
 
+Lanjut ke "Bracelets", ini adalah sesi gelang gelang dengan harga normal
+<img width="960" alt="Screenshot 2024-12-09 230708" src="https://github.com/user-attachments/assets/390bb105-aee7-42e7-9f60-c0413ecd78c0">
+<img width="960" alt="Screenshot 2024-12-09 230733" src="https://github.com/user-attachments/assets/012508ef-7adc-43e8-8bd3-2345e5806a3e">
 
+ketika menekan tombol "payment" akan diarahkan ke payment link, customer bisa memasukkan sendiri nominal sesuai dengan harga gelang, pembelian minimal Rp10.200 untuk sesi ini
+![Screenshot 2024-12-10 091734](https://github.com/user-attachments/assets/6c294179-e1a3-4b4a-bc37-21b843e52cd3)
+
+![Screenshot 2024-12-09 230756](https://github.com/user-attachments/assets/b15da753-6783-4f02-80b9-8371171ff676)
 
